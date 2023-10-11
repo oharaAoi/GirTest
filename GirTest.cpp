@@ -8,6 +8,8 @@ int main()
     std::cout << "Hello GitHub!\n";
     std::cout << "LC1A04_オオハラ_アオイ\n";
 
+    std::cout << "2023/10/11\n";
+
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
