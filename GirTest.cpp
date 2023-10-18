@@ -10,8 +10,9 @@ int main()
 
     std::cout << "2023/10/11\n";
 
-
     std::cout << "playerの作成\n";
+
+    std::cout << "マージしてください\n";
 
 }
 
